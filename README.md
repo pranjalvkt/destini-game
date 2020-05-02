@@ -1,1 +1,1 @@
-# destini-challenge
+# destini-game
